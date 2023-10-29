@@ -14,6 +14,7 @@
 		81DA96892AEEC84C008C3270 /* YRojasColeccionDeDatos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 81DA96872AEEC84C008C3270 /* YRojasColeccionDeDatos.xcdatamodeld */; };
 		81DA968B2AEEC84F008C3270 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81DA968A2AEEC84F008C3270 /* Assets.xcassets */; };
 		81DA968E2AEEC84F008C3270 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81DA968C2AEEC84F008C3270 /* LaunchScreen.storyboard */; };
+		81DA96962AEEE572008C3270 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81DA96952AEEE572008C3270 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		81DA968A2AEEC84F008C3270 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		81DA968D2AEEC84F008C3270 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		81DA968F2AEEC84F008C3270 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		81DA96952AEEE572008C3270 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		81DA967D2AEEC84C008C3270 /* YRojasColeccionDeDatos */ = {
 			isa = PBXGroup;
 			children = (
+				81DA96952AEEE572008C3270 /* JuegosViewController.swift */,
 				81DA967E2AEEC84C008C3270 /* AppDelegate.swift */,
 				81DA96802AEEC84C008C3270 /* SceneDelegate.swift */,
 				81DA96822AEEC84C008C3270 /* ViewController.swift */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81DA96962AEEE572008C3270 /* JuegosViewController.swift in Sources */,
 				81DA96832AEEC84C008C3270 /* ViewController.swift in Sources */,
 				81DA967F2AEEC84C008C3270 /* AppDelegate.swift in Sources */,
 				81DA96892AEEC84C008C3270 /* YRojasColeccionDeDatos.xcdatamodeld in Sources */,
